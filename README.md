@@ -13,14 +13,5 @@ This project aims to detect credit card fraud using machine learning algorithms 
 - **Imbalanced Data Handling:** Identified and addressed imbalances in the dataset to enhance the models' accuracy in detecting fraudulent transactions.
 - **Cybersecurity Impact:** Contributed to improved cybersecurity by developing a robust credit card fraud detection system, offering actionable insights for risk mitigation.
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/<your-username>/credit-card-fraud-detection.git`
-2. Navigate to the project directory: `cd credit-card-fraud-detection`
-3. Install required R packages: `install.packages(c("caret", "randomForest", "nnet", "xgboost", "ROCR"))`
-4. Run the R scripts for data preprocessing and model training: `<instructions>`
-5. Explore the results and visualizations in the generated output.
 
 
